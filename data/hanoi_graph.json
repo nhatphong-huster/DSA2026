@@ -1,0 +1,241 @@
+{
+  "description": "Mạng lưới kết nối giao thông (Đồ thị có trọng số) giữa 12 quận nội thành Hà Nội",
+  "unit_distance": "kilometer (km)",
+  "unit_time": "minute (phút)",
+  "edges": [
+    {
+      "from": "BD",
+      "to": "HK",
+      "distance_km": 2.8,
+      "base_time_min": 10,
+      "peak_time_min": 22,
+      "route_name": "Trục Điện Biên Phủ - Tràng Thi",
+      "bidirectional": true
+    },
+    {
+      "from": "BD",
+      "to": "DD",
+      "distance_km": 2.5,
+      "base_time_min": 9,
+      "peak_time_min": 20,
+      "route_name": "Trục Giảng Võ - Cát Linh",
+      "bidirectional": true
+    },
+    {
+      "from": "BD",
+      "to": "CG",
+      "distance_km": 4.0,
+      "base_time_min": 14,
+      "peak_time_min": 28,
+      "route_name": "Trục Kim Mã - Cầu Giấy",
+      "bidirectional": true
+    },
+    {
+      "from": "BD",
+      "to": "TH",
+      "distance_km": 3.2,
+      "base_time_min": 11,
+      "peak_time_min": 20,
+      "route_name": "Trục Hoàng Hoa Thám - Phan Đình Phùng",
+      "bidirectional": true
+    },
+    {
+      "from": "HK",
+      "to": "DD",
+      "distance_km": 3.0,
+      "base_time_min": 12,
+      "peak_time_min": 25,
+      "route_name": "Trục Khâm Thiên - Lê Duẩn",
+      "bidirectional": true
+    },
+    {
+      "from": "HK",
+      "to": "HBT",
+      "distance_km": 2.5,
+      "base_time_min": 9,
+      "peak_time_min": 18,
+      "route_name": "Trục Hàng Bài - Phố Huế",
+      "bidirectional": true
+    },
+    {
+      "from": "HK",
+      "to": "LB",
+      "distance_km": 4.5,
+      "base_time_min": 15,
+      "peak_time_min": 30,
+      "route_name": "Qua Cầu Chương Dương / Cầu Long Biên",
+      "bidirectional": true
+    },
+    {
+      "from": "TH",
+      "to": "CG",
+      "distance_km": 4.5,
+      "base_time_min": 13,
+      "peak_time_min": 24,
+      "route_name": "Trục Lạc Long Quân - Hoàng Quốc Việt",
+      "bidirectional": true
+    },
+    {
+      "from": "TH",
+      "to": "BTL",
+      "distance_km": 6.0,
+      "base_time_min": 16,
+      "peak_time_min": 28,
+      "route_name": "Trục An Dương Vương - Tây Tựu",
+      "bidirectional": true
+    },
+    {
+      "from": "TH",
+      "to": "LB",
+      "distance_km": 7.0,
+      "base_time_min": 18,
+      "peak_time_min": 32,
+      "route_name": "Qua Cầu Nhật Tân - Võ Chí Công",
+      "bidirectional": true
+    },
+    {
+      "from": "CG",
+      "to": "DD",
+      "distance_km": 3.5,
+      "base_time_min": 12,
+      "peak_time_min": 26,
+      "route_name": "Trục Đường Láng - Cầu Giấy",
+      "bidirectional": true
+    },
+    {
+      "from": "CG",
+      "to": "TX",
+      "distance_km": 4.0,
+      "base_time_min": 13,
+      "peak_time_min": 27,
+      "route_name": "Trục Vành đai 2 - Đường Láng",
+      "bidirectional": true
+    },
+    {
+      "from": "CG",
+      "to": "NTL",
+      "distance_km": 3.5,
+      "base_time_min": 11,
+      "peak_time_min": 22,
+      "route_name": "Trục Phạm Hùng - Dương Đình Nghệ",
+      "bidirectional": true
+    },
+    {
+      "from": "CG",
+      "to": "BTL",
+      "distance_km": 3.8,
+      "base_time_min": 12,
+      "peak_time_min": 24,
+      "route_name": "Trục Hồ Tùng Mậu - Cầu Diễn",
+      "bidirectional": true
+    },
+    {
+      "from": "DD",
+      "to": "TX",
+      "distance_km": 3.2,
+      "base_time_min": 12,
+      "peak_time_min": 28,
+      "route_name": "Trục Tây Sơn - Nguyễn Trãi",
+      "bidirectional": true
+    },
+    {
+      "from": "DD",
+      "to": "HBT",
+      "distance_km": 2.8,
+      "base_time_min": 10,
+      "peak_time_min": 20,
+      "route_name": "Trục Xã Đàn - Đại Cồ Việt",
+      "bidirectional": true
+    },
+    {
+      "from": "HBT",
+      "to": "HM",
+      "distance_km": 3.8,
+      "base_time_min": 13,
+      "peak_time_min": 26,
+      "route_name": "Trục Bạch Mai - Trương Định - Giải Phóng",
+      "bidirectional": true
+    },
+    {
+      "from": "HBT",
+      "to": "TX",
+      "distance_km": 4.2,
+      "base_time_min": 14,
+      "peak_time_min": 29,
+      "route_name": "Trục Đại La - Trường Chinh (Vành đai 2)",
+      "bidirectional": true
+    },
+    {
+      "from": "HBT",
+      "to": "LB",
+      "distance_km": 5.0,
+      "base_time_min": 15,
+      "peak_time_min": 28,
+      "route_name": "Trục Minh Khai - Qua Cầu Vĩnh Tuy",
+      "bidirectional": true
+    },
+    {
+      "from": "TX",
+      "to": "HD",
+      "distance_km": 5.5,
+      "base_time_min": 16,
+      "peak_time_min": 34,
+      "route_name": "Trục Nguyễn Trãi - Trần Phú (Quốc lộ 6)",
+      "bidirectional": true
+    },
+    {
+      "from": "TX",
+      "to": "NTL",
+      "distance_km": 4.2,
+      "base_time_min": 13,
+      "peak_time_min": 25,
+      "route_name": "Trục Khuất Duy Tiến - Lê Văn Lương",
+      "bidirectional": true
+    },
+    {
+      "from": "TX",
+      "to": "HM",
+      "distance_km": 4.8,
+      "base_time_min": 15,
+      "peak_time_min": 30,
+      "route_name": "Trục Định Công - Kim Giang",
+      "bidirectional": true
+    },
+    {
+      "from": "NTL",
+      "to": "BTL",
+      "distance_km": 4.5,
+      "base_time_min": 13,
+      "peak_time_min": 22,
+      "route_name": "Trục Lê Đức Thọ - Hàm Nghi - Cầu Diễn",
+      "bidirectional": true
+    },
+    {
+      "from": "NTL",
+      "to": "HD",
+      "distance_km": 5.0,
+      "base_time_min": 15,
+      "peak_time_min": 28,
+      "route_name": "Trục Tố Hữu - Lê Trọng Tấn",
+      "bidirectional": true
+    },
+    {
+      "from": "HM",
+      "to": "HD",
+      "distance_km": 7.5,
+      "base_time_min": 22,
+      "peak_time_min": 42,
+      "route_name": "Trục Vành đai 3 - Nghiêm Xuân Yêm - Phúc La",
+      "bidirectional": true
+    },
+    {
+      "from": "HM",
+      "to": "LB",
+      "distance_km": 8.5,
+      "base_time_min": 20,
+      "peak_time_min": 35,
+      "route_name": "Qua Cầu Thanh Trì",
+      "bidirectional": true
+    }
+  ]
+}
